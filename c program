@@ -1,0 +1,18 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+clrscr();
+int a;
+printf("hyyy enter 1 to continue");
+scanf("%d",a);
+if(a==1)
+{
+printf("hy");
+}
+else
+{
+printf("byy");
+}
+getch();
+}
